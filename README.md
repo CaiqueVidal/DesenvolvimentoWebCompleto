@@ -1,6 +1,7 @@
 # DesenvolvimentoWebCompleto
 Repositório com atividades do curso Desenvolvimento Web Completo (Udemy)
 
+* [App Calculadora](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gAppCalculadora.gif) Praticar conhecimentos JavaScript.
 * [Projeto Spotify](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gSpotify.gif) Design responsivo, parallax e carousel.
 * [Projeto Finnans](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gFinans.gif) Praticar conhecimentos Boostrap.
 * [Projeto MuseuNacional](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gMuseuNacional.gif) Novas tags HTML, inserir vídeo e mapa.
