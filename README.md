@@ -2,6 +2,7 @@
 Repositório com atividades do curso Desenvolvimento Web Completo (Udemy)
 
 * [App Pesquisa Endereço](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gAppPesquisaEndereco.gif) Consumir API (ViaCEP) com retorno JSON.
+* [App Send E-mail](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gAppSendEmail.gif) Aplicação para utilizar a biblioteca PHPMailer.
 * [App Help Desk](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gAppHelpDesk.gif) Projeto para aprender sobre require, session, method e segurança no back-end.
 * [App Orçamento Pessoal](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gAppOrcamentoPessoal.gif) ES6, Local Storage. 
 * [App Mosquito](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gAppMosquito.gif) JS HTML DOM, JS Browser BOM
