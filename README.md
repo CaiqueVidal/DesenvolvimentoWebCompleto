@@ -1,6 +1,7 @@
 # DesenvolvimentoWebCompleto
 Repositório com atividades do curso Desenvolvimento Web Completo (Udemy)
 
+* [App lista Tarefas](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gAppListaTarefas.gif) Conexão ao banco de dados com PDO para praticar CRUD.
 * [App Pesquisa Endereço](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gAppPesquisaEndereco.gif) Consumir API (ViaCEP) com retorno JSON.
 * [App Send E-mail](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gAppSendEmail.gif) Aplicação para utilizar a biblioteca PHPMailer.
 * [App Help Desk](https://github.com/CaiqueVidal/DesenvolvimentoWebCompleto/blob/master/Gifs/gAppHelpDesk.gif) Projeto para aprender sobre require, session, method e segurança no back-end.
